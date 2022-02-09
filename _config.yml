@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,8 +106,8 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Hanoi, VN"
   email            : "ldduy.edu99@gmail.com"
-  github           : "https://github.com/daemon-Lee"
-  facebook         : "https://www.facebook.com/daemon.lee.33"
+  github           : "daemon-Lee"
+  facebook         : "daemon.lee.33"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
