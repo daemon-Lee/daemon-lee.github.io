@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Dydan-lee's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Duy Lee"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Le Dinh Duy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Hanoi, VN"
+  email            : "ldduy.edu99@gmail.com"
+  github           : "https://github.com/daemon-Lee"
+  facebook         : "https://www.facebook.com/daemon.lee.33"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,10 +136,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/daemon.lee.33"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/daemon-Lee"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
