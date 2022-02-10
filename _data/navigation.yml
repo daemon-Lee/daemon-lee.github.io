@@ -2,6 +2,8 @@
 main:
   - title: "Gist"
     url: https://gist.github.com/daemon-Lee
+  - title: "arXiv news"
+    url: "/arxiv/"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"

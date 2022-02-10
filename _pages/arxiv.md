@@ -117,7 +117,6 @@ title: "arXiv"
       setTimeout(() => {
          let content = []
          window.data.forEach((news) => {
-            console.log(news.id.split("/").at(-1))
             content.push(`
                <li class="news-item">
                   [<a class="news-id" href="${news.link}">${news.id.split("/").at(-1)}</a>] ${news.title}
