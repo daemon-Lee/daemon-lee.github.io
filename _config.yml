@@ -20,7 +20,7 @@ title                    : "Dydan-lee's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Duy Lee"
-description              : &description "An amazing website."
+description              : &description "Still developing…"
 url                      : "https://daemon-lee.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/duy.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Still developing."
+  bio              : "Still developing..."
   location         : "Hanoi, VN"
   links:
-    - label: "Email"
+    - label: "ldduy.edu99@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ldduy.edu99@gmail.com"
     - label: "Website"
@@ -115,13 +115,13 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: "daemon.lee.33"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/daemon.lee.33"
-    - label: "GitHub"
+    - label: "daemon-Lee"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/daemon-Lee"
-    - label: "Instagram"
+    - label: "dydan_lee"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dydan_lee"
 
@@ -131,10 +131,10 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/daemon.lee.33"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/daemon-Lee"
     - label: "GitLab"
@@ -143,7 +143,7 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dydan_lee"
 
