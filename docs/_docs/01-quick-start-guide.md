@@ -10,6 +10,8 @@ toc: true
 
 Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
 
+curl   -H "Accept: application/vnd.github.v3+json"   https://api.github.com/users/daemon-Lee/gists
+
 **If you enjoy this theme, please consider [sponsoring me](https://github.com/sponsors/mmistakes) to continue developing and maintaining it.**
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'P5P14VMO6');kofiwidget2.draw();</script> 
