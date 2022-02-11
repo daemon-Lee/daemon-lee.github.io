@@ -1,11 +1,12 @@
 ---
 permalink: /arxiv/
-title: "arXiv"
+title: "arXiv news"
 ---
 
-Go to [Artificial Intelligence page](/arxiv/csAI)
+Mình note lại một số `Category` từ trang `arXiv` mà mình hay quan tâm.
 
-Go to [Computational Complexity page](/arxiv/csCC)
+[▶](/arxiv/csAI){: .btn.btn--info} Artificial Intelligence 
 
-Go to [Computation and Language page](/arxiv/csCL)
+[▶](/arxiv/csCC){: .btn.btn--info} Computational Complexity
 
+[▶](/arxiv/csCL){: .btn.btn--info} Computation and Language

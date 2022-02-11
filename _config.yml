@@ -345,3 +345,6 @@ projects:
     forks: true
     projects:
     # - repo-name
+
+head_scripts:
+  - /assets/js/arxiv.js
