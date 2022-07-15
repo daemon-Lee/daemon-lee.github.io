@@ -1,5 +1,5 @@
 ---
-title: "Vim va Plug-in"
+title: "Giải thích GPT-2"
 categories:
   - NLP
 tags:
