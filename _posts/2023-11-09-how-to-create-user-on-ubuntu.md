@@ -1,5 +1,5 @@
 ---
-title: "2022-02-13-docker-install.md"
+title: "How to create user on ubuntu"
 categories:
   - ubuntu-setup
 tags:
