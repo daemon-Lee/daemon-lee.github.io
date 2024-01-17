@@ -21,3 +21,8 @@ apt install python3.x-distutils
 ```
 
 > Note: `x` is version of python
+
+Install pip
+```shell
+curl -sS https://bootstrap.pypa.io/get-pip.py | python3
+```
